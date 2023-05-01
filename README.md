@@ -5,8 +5,6 @@
 
 •The maximum accuracy achieved is 70 percent.
 
-## Refernces
-https://medium.com/miccai-educational-initiative/skin-cancer-image-classification-an-educational-guide-2a043a1beb59
 
 ## Dataset
 The dataset used is available in Harvard Dataverse. Total of 7 files are available, I have use 2 image folder(	
@@ -16,3 +14,9 @@ HAM10000_images_part_2.zip) as a single folder and the metadata of these images.
 
 
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T
+
+
+## Refernces
+https://medium.com/miccai-educational-initiative/skin-cancer-image-classification-an-educational-guide-2a043a1beb59
+
+
