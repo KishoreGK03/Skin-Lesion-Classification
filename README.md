@@ -5,6 +5,7 @@
 
 •The maximum accuracy achieved is 70 percent.
 
+Deployed it in Steamlit.
 
 ## Dataset
 The dataset used is available in Harvard Dataverse. Total of 7 files are available, I have use 2 image folder(	
